@@ -1,0 +1,24 @@
+{
+  "name": "v2-periphery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "16.0.3",
+    "standard": "16.0.4",
+    "@nomiclabs/hardhat-ethers": "2.2.2",
+    "@nomiclabs/hardhat-etherscan": "3.1.7",
+    "@nomiclabs/hardhat-waffle": "2.0.5",
+    "@typechain/ethers-v5": "10.2.0",
+    "@typechain/hardhat": "6.1.5",
+    "ethers": "5.5.2",
+    "hardhat": "2.13.0",
+    "typechain": "8.1.1",
+    "@uniswap/lib": "4.0.1-alpha",
+    "@uniswap/v2-core": "1.0.1"
+  },
+  "volta": {
+    "node": "18.12.0",
+    "yarn": "1.22.11"
+  }
+}

@@ -1,0 +1,14 @@
+.*
+node_modules
+v2-core/artifacts
+v2-periphery/artifacts
+v2-core/cache
+v2-periphery/cache
+v3-core/artifacts
+v3-periphery/artifacts
+v3-core/cache
+v3-periphery/cache
+router-contracts/artifacts
+router-contracts/cache
+permit2/artifacts
+permit2/cache
